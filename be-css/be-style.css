@@ -4,3 +4,13 @@ HTML, CSS, JAVASCRITP
 2021-06-13
 */
 
+/* Insert fonts */
+@font-face {
+    font-family: mono;
+    src: url(../be-fonts/NovaMono-Regular.ttf);
+}
+
+@font-face {
+    font-family: raleway;
+    src: url(../be-fonts/Raleway-Regular.ttf);
+}
