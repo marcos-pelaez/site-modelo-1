@@ -14,3 +14,8 @@ HTML, CSS, JAVASCRITP
     font-family: raleway;
     src: url(../be-fonts/Raleway-Regular.ttf);
 }
+
+.principal{
+    max-width: 980px;
+    margin: 0 auto;
+}
