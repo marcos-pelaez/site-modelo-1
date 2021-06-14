@@ -20,3 +20,14 @@ HTML, CSS, JAVASCRITP
     margin: 0 auto;
 }
 
+/* Configure Logo */
+.logo{
+    font-family: 'mono','Sans Seric' ;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+    background-color: #eeeeee;
+    box-shadow: 0 -3px 30px rgb(195, 195, 195);
+    
+}
+
