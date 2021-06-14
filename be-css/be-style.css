@@ -42,7 +42,8 @@ HTML, CSS, JAVASCRITP
     text-align: center;
     padding: 10px;
     border-bottom: #000 solid 1px;
+    font-family: raleway, Arial, Helvetica, sans-serif;
 }
 
 .menu-bt{font-size: 35px;}
-.menu-item{font-size: 25px; display: none;}
+.menu-item{font-size: 22px; display: block;}
