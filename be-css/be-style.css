@@ -47,3 +47,22 @@ HTML, CSS, JAVASCRITP
 
 .menu-bt{font-size: 35px;}
 .menu-item{font-size: 22px; display: block;}
+
+/* links menu */
+
+#main-menu{
+    display: none;
+}
+
+.menu ul li a{
+    color: #000;
+    text-decoration: none;
+}
+
+.menu ul li a:visited{
+    color: #000;
+}
+
+.menu ul li a:hover{
+    color: rgb(126, 126, 126);
+}
