@@ -66,3 +66,18 @@ HTML, CSS, JAVASCRITP
 .menu ul li a:hover{
     color: rgb(126, 126, 126);
 }
+
+/* Configure foto-header area */
+
+.foto-presentation .back-opacity{
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    top: 0;
+    padding-bottom: 200px;
+}
+
+.foto-presentation{        
+    background-image: url(../be-img/img-mobile-400px.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
