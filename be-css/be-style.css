@@ -97,3 +97,36 @@ HTML, CSS, JAVASCRITP
     font-size: 20px;
     padding: 6% 0 0 6%;
 }
+
+/* content after header */
+.advice, .advice2{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(187, 128, 255);
+    transform: rotate(45deg);
+    position: relative;
+    padding: 1.5%;
+    box-shadow: #000 0 0 20px;
+}
+
+.advice{ margin: 15% auto; background-color: rgb(187, 128, 255); }
+.advice2{ margin: 20% auto; background-color: rgb(250, 149, 109); }
+
+.advice-in{
+    background-color: #fff;
+    width: 140px;
+    height: 140px;
+    border: rgb(136, 136, 136) solid 3px;
+}
+
+.advice-in>h3{
+    text-align: center;
+    font-family: mono, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    transform: rotate(-45deg);
+    margin: 45% auto;
+}
+
+#advice-text1{ color: rgb(245, 121, 107); }
+#advice-text2{ color: rgb(187, 128, 255); }
