@@ -130,3 +130,47 @@ HTML, CSS, JAVASCRITP
 
 #advice-text1{ color: rgb(245, 121, 107); }
 #advice-text2{ color: rgb(187, 128, 255); }
+
+/* Configure Footer */
+footer{
+    background-color: rgb(250, 149, 109);
+    margin: 0;
+    padding-bottom: 1%;
+}
+
+.h-footer{
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+    font-family: mono, Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.s-footer{
+    width: 95%;
+    margin: 0 auto 10px auto;
+    padding: 15px;
+    background-color: rgb(42, 42, 42);
+    color: #fff;
+    text-align: center;
+    font-family: raleway, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.s-footer>p{
+    padding: 10px;
+}
+
+.s-footer>p>a:link{
+    text-decoration: none;
+    color: rgb(223, 223, 223);
+}
+
+.s-footer>p>a:hover{
+    color: rgb(250, 149, 109);
+}
+
+.s-footer>p>a:visited{
+    color: rgb(223, 223, 223);
+}
