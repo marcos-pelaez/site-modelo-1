@@ -174,3 +174,43 @@ footer{
 .s-footer>p>a:visited{
     color: rgb(223, 223, 223);
 }
+
+/* --------------------RESPONSIVE BREACK POINT-------------------- */
+
+@media (min-width: 750px) {
+    .logo{
+        font-size: 45px;
+    }
+
+    .text-header>h1{
+        font-size: 50px;
+    }
+    
+    .text-header>p{
+        font-size: 35px;
+    }
+
+    .notices-section{
+        display: flex;
+    }
+
+    .advice, .advice2{
+        width: 200px;
+        height: 200px;
+        margin: 10% auto;
+    }
+
+    .advice-in{
+        width: 170px;
+        height: 170px;
+    }
+
+    .h-footer{
+        font-size: 35px;
+    }
+
+    .s-footer>p{
+        font-size: 25px;
+    }
+
+} /* End @media 750px */
