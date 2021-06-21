@@ -214,3 +214,27 @@ footer{
     }
 
 } /* End @media 750px */
+
+@media (min-width: 890px){
+     .menu>nav>i{
+        display: none;
+    }
+
+    #main-menu{
+        display: flex;
+    }
+
+    #h-prime{
+        display: flex;
+        width: 100%;
+    }
+    
+    #h-prime>div{
+        flex-grow: 1;
+    }
+
+    .menu-item{
+        border: none;
+        margin-top: 10px;
+    }
+} /* End @media 890px */
